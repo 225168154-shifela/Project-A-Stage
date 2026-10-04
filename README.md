@@ -11,7 +11,7 @@
 - Gina2402 - Employee Management  
 - MrHays007 - Management  
 - 225054523-Sefanya - Supplier Management  
-- Student 4: Asset Management  
+- annataatsu06-ai - Asset Management  
 - Vilho-Katamba - Reports  
 - 220075700 Mpinge Godhard - Functions, Integration & Validation  
 - 225168154-Shifela - Testing, Documentation & Git Coordination  
