@@ -1,6 +1,6 @@
 Logged out my WhatsApp i'm outside can 1 of u guys please come get me i'm by the notice board just raise ur hand when ur there??????
 
-## Project Information
+## Logged out my WhatsApp i'm outside can 1 of u guys please come get me i'm by the notice board just raise ur hand when ur there??????
 - Course: PAP521S - Programming in Practice  
 - Programming Language: C 
 - Development Environment: Visual Studio Code + GCC  
