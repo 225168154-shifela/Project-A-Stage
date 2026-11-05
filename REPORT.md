@@ -1,5 +1,5 @@
 Guys where r we presenting, my WhatsApp is logged out and i'm at FCI lab 2
-## Project A: Municipal Financial Management System (MFMS)
+Guys where r we presenting, my WhatsApp is logged out and i'm at FCI lab 2
 
 ### 1. Introduction
 The Municipal Financial Management System (MFMS) was developed as part of the PAP521S course. It is a foundation system built in ANSI C (C99) to demonstrate programming concepts such as arrays, strings, loops, and functions. The system manages employees, budgets, suppliers, and assets for a municipality.
