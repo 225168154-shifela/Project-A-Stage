@@ -31,6 +31,6 @@
      for (int i = 0; i < assetCount; i++) {
          total += assets[i].value;
      }
-     printf("\nTotal Value of ALL Assets:N$%.2f\n", total):
-       }
      printf("\nTotal Value of All Assets: N$%.2f\n", total);
+       }
+     
