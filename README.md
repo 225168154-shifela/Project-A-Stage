@@ -1,6 +1,6 @@
 # Municipal Financial Management System (MFMS)
 
-where r we presenting
+Project Information
 - Course: PAP521S - Programming in Practice  
 - Programming Language: C 
 - Development Environment: Visual Studio Code + GCC  
