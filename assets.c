@@ -2,6 +2,8 @@
  #include <string.h>
  #include "assets.h"
  Asset assets[100];
+whare are we presenting its Gerhard my WhatsApp logged out,were can i meet u guys 
+PLEASE REPLAY HERE: 
  int assetCount = 0;
  void addAsset() {
      printf("Enter Asset ID: ");
